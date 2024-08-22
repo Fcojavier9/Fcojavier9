@@ -300,7 +300,7 @@
     </a>
   </span>
   <span>
-    <a href="https://www.atlassian.com/" rel="nofollow">
+    <a href="https://www.atlassian.com/es/software/jira" rel="nofollow">
       <img
         src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"
         width="36"
