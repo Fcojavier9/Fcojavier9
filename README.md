@@ -1,3 +1,9 @@
+<h1>Hi, I’m Fran👋</h1>
+
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning computer engineery
+- 📫 How to reach me franciscojaviermontielnoguera@gmail.com
+  
 <h1>Skills</h1>
 
 <h3>Lenguajes de Programación</h3>
