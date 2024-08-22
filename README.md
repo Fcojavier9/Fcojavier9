@@ -214,6 +214,28 @@
     </a>
   </span>
   <span style="text-decoration: none;">
+    <a href="https://about.gitlab.com/" rel="nofollow">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+        width="36"
+        height="36"
+        alt="Git"
+        style="max-width: 100%"
+      />
+    </a>
+  </span>
+  <span style="text-decoration: none;">
+    <a href="https://github.com/" rel="nofollow">
+      <img
+        src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
+        width="36"
+        height="36"
+        alt="Git"
+        style="max-width: 100%"
+      />
+    </a>
+  </span>
+  <span style="text-decoration: none;">
     <a href="https://www.visualstudiocode.com" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
