@@ -209,6 +209,16 @@
       />
     </a>
   </span>
+  <span>
+    <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
+        alt="symfony"
+        width="40"
+        height="40"
+      />
+    </a>
+  </span>
 </p>
 
 <h3>Herramientas de Desarrollo</h3>
