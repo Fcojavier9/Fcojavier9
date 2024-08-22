@@ -216,7 +216,7 @@
   <span style="text-decoration: none;">
     <a href="https://about.gitlab.com/" rel="nofollow">
       <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
+        src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"
         width="36"
         height="36"
         alt="Git"
