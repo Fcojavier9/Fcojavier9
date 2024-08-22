@@ -7,8 +7,8 @@
 <h1>Skills</h1>
 
 <h3>Lenguajes de Programación</h3>
-<p align="left" dir="auto" style="text-decoration: none;>
-    <a href="https://www.oracle.com/java/" rel="nofollow" >
+<p align="left" dir="auto">
+    <a href="https://www.oracle.com/java/" rel="nofollow" style="text-decoration: none;>
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" style="max-width: 100%;">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow" >
@@ -32,7 +32,7 @@
 </p>
 
 <h3>Desarrollo Web</h3>
-<p align="left" dir="auto" style="text-decoration: none;>
+<p align="left" dir="auto">
     <a href="https://reactjs.org/" rel="nofollow" >
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="max-width: 100%;">
     </a>
