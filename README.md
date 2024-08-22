@@ -6,8 +6,8 @@
     <a href="https://www.oracle.com/java/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="Java"
         style="max-width: 100%"
       />
@@ -20,8 +20,8 @@
     >
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="JavaScript"
         style="max-width: 100%"
       />
@@ -31,8 +31,8 @@
     <a href="https://www.php.net/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="PHP"
         style="max-width: 100%"
       />
@@ -42,8 +42,8 @@
     <a href="https://www.python.org/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="Python"
         style="max-width: 100%"
       />
@@ -57,8 +57,8 @@
     >
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="C"
       />
     </a>
@@ -71,8 +71,8 @@
     >
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="C++"
       />
     </a>
@@ -82,8 +82,8 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
         alt="csharp"
-        width="40"
-        height="40"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -95,8 +95,8 @@
     <a href="https://reactjs.org/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="React"
         style="max-width: 100%"
       />
@@ -106,8 +106,8 @@
     <a href="https://laravel.com/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="Laravel"
         style="max-width: 100%"
       />
@@ -120,8 +120,8 @@
     >
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="HTML5"
         style="max-width: 100%"
       />
@@ -131,8 +131,8 @@
     <a href="https://www.w3.org/TR/CSS/#css" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="CSS3"
         style="max-width: 100%"
       />
@@ -142,8 +142,8 @@
     <a href="https://getbootstrap.com/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="Bootstrap"
         style="max-width: 100%"
       />
@@ -153,8 +153,8 @@
     <a href="https://vitejs.dev/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="Vite"
         style="max-width: 100%"
       />
@@ -164,9 +164,9 @@
     <a href="https://eslint.org/" rel="nofollow">
       <img
         src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg"
-        width="36"
-        height="36"
-        alt="Vite"
+        width="56"
+        height="56"
+        alt="EsLint"
         style="max-width: 100%"
       />
     </a>
@@ -175,9 +175,9 @@
     <a href="https://www.npmjs.com/" rel="nofollow">
       <img
         src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"
-        width="36"
-        height="36"
-        alt="Vite"
+        width="56"
+        height="56"
+        alt="NPM"
         style="max-width: 100%"
       />
     </a>
@@ -191,8 +191,8 @@
       <img
         src="https://cdn.worldvectorlogo.com/logos/django.svg"
         alt="django"
-        width="40"
-        height="40"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -205,8 +205,8 @@
       <img
         src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
         alt="flask"
-        width="40"
-        height="40"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -215,8 +215,8 @@
       <img
         src="https://symfony.com/logos/symfony_black_03.svg"
         alt="symfony"
-        width="40"
-        height="40"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -224,9 +224,9 @@
     <a href="https://jestjs.io/es-ES/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-        alt="symfony"
-        width="40"
-        height="40"
+        alt="Jest"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -238,8 +238,8 @@
     <a href="https://git-scm.com/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="Git"
         style="max-width: 100%"
       />
@@ -249,9 +249,9 @@
     <a href="https://about.gitlab.com/" rel="nofollow">
       <img
         src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg"
-        width="36"
-        height="36"
-        alt="Git"
+        width="56"
+        height="56"
+        alt="GitLab"
         style="max-width: 100%"
       />
     </a>
@@ -260,9 +260,9 @@
     <a href="https://github.com/" rel="nofollow">
       <img
         src="https://www.vectorlogo.zone/logos/github/github-icon.svg"
-        width="36"
-        height="36"
-        alt="Git"
+        width="56"
+        height="56"
+        alt="GitHub"
         style="max-width: 100%"
       />
     </a>
@@ -271,8 +271,8 @@
     <a href="https://www.visualstudiocode.com" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="VS Code"
         style="max-width: 100%"
       />
@@ -282,8 +282,8 @@
     <a href="https://www.docker.com/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="Docker"
         style="max-width: 100%"
       />
@@ -294,8 +294,8 @@
       <img
         src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
         alt="postman"
-        width="40"
-        height="40"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -303,8 +303,8 @@
     <a href="https://www.gitkraken.com" rel="nofollow">
       <img
         src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="GitKraken"
         style="max-width: 100%"
       />
@@ -314,9 +314,9 @@
     <a href="https://www.atlassian.com/es/software/jira" rel="nofollow">
       <img
         src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"
-        width="36"
-        height="36"
-        alt="GitKraken"
+        width="56"
+        height="56"
+        alt="Jira"
         style="max-width: 100%"
       />
     </a>
@@ -329,9 +329,9 @@
     <a href="https://graphql.org/" rel="nofollow">
       <img
         src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-        width="36"
-        height="36"
-        alt="Vite"
+        width="56"
+        height="56"
+        alt="GraphQL"
         style="max-width: 100%"
       />
     </a>
@@ -340,9 +340,9 @@
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg"
-        alt="postgresql"
-        width="40"
-        height="40"
+        alt="Apache"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -350,9 +350,9 @@
     <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg"
-        alt="postgresql"
-        width="40"
-        height="40"
+        alt="Cloudfare"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -364,8 +364,8 @@
     <a href="https://www.mysql.com/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="MySQL"
         style="max-width: 100%"
       />
@@ -376,8 +376,8 @@
       <img
         src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
         alt="mariadb"
-        width="40"
-        height="40"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -386,8 +386,8 @@
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
         alt="postgresql"
-        width="40"
-        height="40"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -396,8 +396,8 @@
       <img
         src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"
         alt="postgresql"
-        width="40"
-        height="40"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -409,8 +409,8 @@
     <a href="https://www.gnu.org/software/bash/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="GNU Bash"
         style="max-width: 100%"
       />
@@ -420,8 +420,8 @@
     <a href="https://www.linux.org" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="Linux"
         style="max-width: 100%"
       />
@@ -431,9 +431,9 @@
     <a href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg"
-        alt="postgresql"
-        width="40"
-        height="40"
+        alt="Debian"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -445,8 +445,8 @@
     <a href="https://www.figma.com/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="Figma"
         style="max-width: 100%"
       />
@@ -456,8 +456,8 @@
     <a href="https://www.adobe.com/uk/products/photoshop.html" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="Photoshop"
         style="max-width: 100%"
       />
@@ -469,8 +469,8 @@
     >
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg"
-        width="36"
-        height="36"
+        width="56"
+        height="56"
         alt="Illustrator"
         style="max-width: 100%"
       />
@@ -480,9 +480,9 @@
     <a href="https://www.gimp.org/" rel="nofollow">
       <img
         src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg"
-        width="36"
-        height="36"
-        alt="Photoshop"
+        width="56"
+        height="56"
+        alt="Gimp"
         style="max-width: 100%"
       />
     </a>
@@ -496,8 +496,8 @@
       <img
         src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"
         alt="arduino"
-        width="40"
-        height="40"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -506,8 +506,8 @@
       <img
         src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
         alt="babel"
-        width="40"
-        height="40"
+        width="56"
+        height="56"
       />
     </a>
   </span>
@@ -515,9 +515,9 @@
     <a href="https://www.cisco.com/c/es_es/index.html" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"
-        alt="postgresql"
-        width="40"
-        height="40"
+        alt="Cisco"
+        width="56"
+        height="56"
       />
     </a>
   </span>
