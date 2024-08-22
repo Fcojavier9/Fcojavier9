@@ -282,7 +282,6 @@
 
 <h3>Infraestructura Web</h3>
 <p align="left" dir="auto">
-   
   <span>
     <a href="https://graphql.org/" rel="nofollow">
       <img
@@ -298,6 +297,16 @@
     <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
       <img
         src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg"
+        alt="postgresql"
+        width="40"
+        height="40"
+      />
+    </a>
+  </span>
+  <span>
+    <a href="https://www.cloudflare.com/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-icon.svg"
         alt="postgresql"
         width="40"
         height="40"
@@ -362,6 +371,16 @@
         height="36"
         alt="Linux"
         style="max-width: 100%"
+      />
+    </a>
+  </span>
+   <span style="text-decoration: none;">
+    <a href="https://www.debian.org/index.es.html" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/debian/debian-icon.svg"
+        alt="postgresql"
+        width="40"
+        height="40"
       />
     </a>
   </span>
