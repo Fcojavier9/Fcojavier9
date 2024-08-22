@@ -299,6 +299,17 @@
       />
     </a>
   </span>
+  <span>
+    <a href="https://www.atlassian.com/" rel="nofollow">
+      <img
+        src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg"
+        width="36"
+        height="36"
+        alt="GitKraken"
+        style="max-width: 100%"
+      />
+    </a>
+  </span>
 </p>
 
 <h3>Infraestructura Web</h3>
