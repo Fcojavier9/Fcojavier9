@@ -245,6 +245,17 @@
       />
     </a>
   </span>
+  <span style="text-decoration: none;">
+    <a href="https://www.gitkraken.com" rel="nofollow">
+      <img
+        src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg"
+        width="36"
+        height="36"
+        alt="GitKraken"
+        style="max-width: 100%"
+      />
+    </a>
+  </span>
 </p>
 
 <h3>Bases de Datos</h3>
@@ -277,17 +288,6 @@
         alt="postgresql"
         width="40"
         height="40"
-      />
-    </a>
-  </span>
-  <span style="text-decoration: none;">
-    <a href="https://www.gitkraken.com" rel="nofollow">
-      <img
-        src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg"
-        width="36"
-        height="36"
-        alt="GitKraken"
-        style="max-width: 100%"
       />
     </a>
   </span>
