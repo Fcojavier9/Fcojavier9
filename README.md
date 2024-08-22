@@ -391,6 +391,16 @@
       />
     </a>
   </span>
+  <span>
+    <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/phpmyadmin/phpmyadmin-ar21.svg"
+        alt="postgresql"
+        width="40"
+        height="40"
+      />
+    </a>
+  </span>
 </p>
 
 <h3>Sistemas Operativos</h3>
