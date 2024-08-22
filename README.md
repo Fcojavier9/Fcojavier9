@@ -163,10 +163,10 @@
   <span style="text-decoration: none;">
     <a href="https://www.gitkraken.com" rel="nofollow">
       <img
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+        src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg"
         width="36"
         height="36"
-        alt="Vite"
+        alt="GitKraken"
         style="max-width: 100%"
       />
     </a>
