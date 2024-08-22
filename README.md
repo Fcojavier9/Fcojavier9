@@ -423,6 +423,16 @@
       />
     </a>
   </span>
+   <span style="text-decoration: none;">
+    <a href="https://www.cisco.com/c/es_es/index.html" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"
+        alt="postgresql"
+        width="40"
+        height="40"
+      />
+    </a>
+  </span>
 </p>
 
 <!---
