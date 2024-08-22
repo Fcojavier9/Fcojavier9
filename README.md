@@ -171,16 +171,6 @@
       />
     </a>
   </span>
-   <span style="text-decoration: none;">
-    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg"
-        alt="postgresql"
-        width="40"
-        height="40"
-      />
-    </a>
-  </span>
 </p>
 
 <h3>Frameworks y Librerías</h3>
@@ -299,6 +289,21 @@
       />
     </a>
   </span>
+</p>
+
+<h3>Infraestructura Web</h3>
+<p align="left" dir="auto">
+   <span style="text-decoration: none;">
+    <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer">
+      <img
+        src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg"
+        alt="postgresql"
+        width="40"
+        height="40"
+      />
+    </a>
+  </span>
+  
 </p>
 
 <h3>Bases de Datos</h3>
