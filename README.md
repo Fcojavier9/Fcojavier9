@@ -160,6 +160,17 @@
       />
     </a>
   </span>
+  <span style="text-decoration: none;">
+    <a href="https://www.gitkraken.com" rel="nofollow">
+      <img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+        width="36"
+        height="36"
+        alt="Vite"
+        style="max-width: 100%"
+      />
+    </a>
+  </span>
 </p>
 
 <h3>Frameworks y Librerías</h3>
