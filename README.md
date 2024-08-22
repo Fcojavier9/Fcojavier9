@@ -1,8 +1,8 @@
 <h1>Skills</h1>
 
 <h3>Lenguajes de Programación</h3>
-<p align="left" dir="auto">
-  <span style="a{text-decoration: none;}">
+<p align="left" dir="auto" style="a{text-decoration: none;}">
+  <span >
     <a href="https://www.oracle.com/java/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
