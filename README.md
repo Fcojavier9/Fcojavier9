@@ -1,7 +1,7 @@
 <h1>Skills</h1>
 
 <h3>Lenguajes de Programación</h3>
-<p align="left" dir="auto" style="a,a::hover{text-decoration: none;}">
+<p align="left" dir="auto" style="a{text-decoration: none;}">
   <span >
     <a href="https://www.oracle.com/java/" rel="nofollow">
       <img
