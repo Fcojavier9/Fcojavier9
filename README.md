@@ -3,7 +3,11 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning computer engineery
 - 📫 How to reach me franciscojaviermontielnoguera@gmail.com
-  
+<style>
+    a {
+        text-decoration: none !important;
+    }
+</style>  
 <h1>Skills</h1>
 
 <h3>Lenguajes de Programación</h3>
