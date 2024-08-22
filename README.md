@@ -160,6 +160,17 @@
       />
     </a>
   </span>
+  <span>
+    <a href="https://eslint.org/" rel="nofollow">
+      <img
+        src="https://www.vectorlogo.zone/logos/eslint/eslint-icon.svg"
+        width="36"
+        height="36"
+        alt="Vite"
+        style="max-width: 100%"
+      />
+    </a>
+  </span>
 </p>
 
 <h3>Frameworks y Librerías</h3>
@@ -419,6 +430,17 @@
         width="36"
         height="36"
         alt="Illustrator"
+        style="max-width: 100%"
+      />
+    </a>
+  </span>
+  <span>
+    <a href="https://www.gimp.org/" rel="nofollow">
+      <img
+        src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg"
+        width="36"
+        height="36"
+        alt="Photoshop"
         style="max-width: 100%"
       />
     </a>
