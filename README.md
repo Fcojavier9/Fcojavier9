@@ -1,7 +1,7 @@
 <h1>Skills</h1>
 
 <h3>Lenguajes de Programación</h3>
-<p align="left" dir="auto" style="a{text-decoration: none;}">
+<p align="left" dir="auto">
   <span >
     <a href="https://www.oracle.com/java/" rel="nofollow">
       <img
@@ -90,7 +90,7 @@
 </p>
 
 <h3>Desarrollo Web</h3>
-<p align="left" dir="auto" style="a{text-decoration: none;}">
+<p align="left" dir="auto">
   <span>
     <a href="https://reactjs.org/" rel="nofollow">
       <img
@@ -185,7 +185,7 @@
 </p>
 
 <h3>Frameworks y Librerías</h3>
-<p align="left" dir="auto" style="a{text-decoration: none;}">
+<p align="left" dir="auto">
   <span>
     <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
       <img
@@ -233,7 +233,7 @@
 </p>
 
 <h3>Herramientas de Desarrollo</h3>
-<p align="left" dir="auto" style="a{text-decoration: none;}">
+<p align="left" dir="auto">
   <span>
     <a href="https://git-scm.com/" rel="nofollow">
       <img
@@ -324,7 +324,7 @@
 </p>
 
 <h3>Infraestructura Web</h3>
-<p align="left" dir="auto" style="a{text-decoration: none;}">
+<p align="left" dir="auto">
   <span>
     <a href="https://graphql.org/" rel="nofollow">
       <img
@@ -359,7 +359,7 @@
 </p>
 
 <h3>Bases de Datos</h3>
-<p align="left" dir="auto" style="a{text-decoration: none;}">
+<p align="left" dir="auto">
   <span>
     <a href="https://www.mysql.com/" rel="nofollow">
       <img
@@ -394,7 +394,7 @@
 </p>
 
 <h3>Sistemas Operativos</h3>
-<p align="left" dir="auto" style="a{text-decoration: none;}">
+<p align="left" dir="auto">
   <span>
     <a href="https://www.gnu.org/software/bash/" rel="nofollow">
       <img
@@ -430,7 +430,7 @@
 </p>
 
 <h3>Diseño</h3>
-<p align="left" dir="auto" style="a{text-decoration: none;}">
+<p align="left" dir="auto">
   <span>
     <a href="https://www.figma.com/" rel="nofollow">
       <img
@@ -480,7 +480,7 @@
 </p>
 
 <h3>Otros</h3>
-<p align="left" dir="auto" style="a{text-decoration: none;}">
+<p align="left" dir="auto">
   <span>
     <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
       <img
