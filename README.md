@@ -32,7 +32,7 @@
 </p>
 
 <h3>Desarrollo Web</h3>
-<p align="left" dir="auto">
+<p align="left" dir="auto" style="text-decoration: none;>
     <a href="https://reactjs.org/" rel="nofollow" >
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" style="max-width: 100%;">
     </a>
