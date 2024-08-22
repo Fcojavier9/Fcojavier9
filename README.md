@@ -2,7 +2,7 @@
 
 <h3>Lenguajes de Programación</h3>
 <p align="left" dir="auto">
-  <span style="text-decoration: none;">
+  <span style="a{text-decoration: none;}">
     <a href="https://www.oracle.com/java/" rel="nofollow">
       <img
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
