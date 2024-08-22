@@ -160,6 +160,17 @@
       />
     </a>
   </span>
+  <span style="text-decoration: none;">
+    <a href="https://graphql.org/" rel="nofollow">
+      <img
+        src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
+        width="36"
+        height="36"
+        alt="Vite"
+        style="max-width: 100%"
+      />
+    </a>
+  </span>
 </p>
 
 <h3>Frameworks y Librerías</h3>
